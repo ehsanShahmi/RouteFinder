@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Route Finder</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string-array name="location">
+        <item>Apple</item>
+        <item>Ball</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Azimpur</item>
+        <item>Kalabagan</item>
+        <item>RaselSquare</item>
+        <item>CityCollege</item>
+        <item>Farmgate</item>
+        <item>IDB</item>
+        <item>Mirpur</item>
+        <item>Gulshan</item>
+        <item>Badda</item>
+        <item>Kuril</item>
+        <item>Motijheel</item>
+        <item>Shyamoli</item>
+        <item>Panthapath</item>
+        <item>Bashundhara</item>
+        <item>Karwanbazar</item>
+        <item>Shatrasta</item>
+        <item>Nabisco</item>
+        <item>Tibat</item>
+        <item>Mohakhali</item>
+        <item>Airport</item>
+        <item>Uttara</item>
+        <item>TongiStation</item>
+        <item>HosenMarket</item>
+
+    </string-array>
+    <string name="title_activity_show__route">Show_Route</string>
+    <string name="title_activity_your__route">Your_Route</string>
+
+</resources>
